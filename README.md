@@ -1,6 +1,6 @@
 # Facebook
  # MINI FACEBOOK 
-**Login or Register:**Through this applicatiion we can securely log in or create a new account to start your journey.
+**Login or Register:** Through this applicatiion we can securely log in or create a new account to start your journey.
 
 **Upload Pics:** Capture moments and share them instantly! Upload your favorite photos to create a visual story of your life.
 
